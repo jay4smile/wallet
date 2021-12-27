@@ -6,6 +6,7 @@ This service handles below REST services and also uses H2 in memory database to 
 
 ```bash
 mvn clean install
+mvn spring-boot:run
 ```
 
 ## DOCKER STEP
